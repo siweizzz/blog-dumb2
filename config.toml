@@ -1,3 +1,4 @@
 baseURL = "https://sharp-fermi-cce0bd.netlify.app"
 languageCode = "en-us"
 title = "Bloggy Blog"
+theme = "anake"
