@@ -1,4 +1,4 @@
-baseURL = "sharp-fermi-cce0bd.netlify.app"
+baseURL = "https://sharp-fermi-cce0bd.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "jeffprod"
